@@ -1,0 +1,3 @@
+/home/programming/Desktop/git/libC/libC_testing/cmake-build-debug/CMakeFiles/libC_testing.dir
+/home/programming/Desktop/git/libC/libC_testing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/programming/Desktop/git/libC/libC_testing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
