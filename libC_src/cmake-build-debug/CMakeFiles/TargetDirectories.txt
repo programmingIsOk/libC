@@ -1,3 +1,0 @@
-/home/programming/Desktop/git/libC/libC_src/cmake-build-debug/CMakeFiles/libC_src.dir
-/home/programming/Desktop/git/libC/libC_src/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/programming/Desktop/git/libC/libC_src/cmake-build-debug/CMakeFiles/rebuild_cache.dir

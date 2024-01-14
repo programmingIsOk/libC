@@ -1,0 +1,4 @@
+/home/programming/Desktop/git/libC/testing/cmake-build-debug/CMakeFiles/myLibTest.dir
+/home/programming/Desktop/git/libC/testing/cmake-build-debug/CMakeFiles/dynamic_array.dir
+/home/programming/Desktop/git/libC/testing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/programming/Desktop/git/libC/testing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

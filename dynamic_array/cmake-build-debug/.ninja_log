@@ -1,0 +1,5 @@
+# ninja log v5
+0	23	1704667323500247354	CMakeFiles/dynamic_array.dir/library.c.o	a2fdffb8932c8dd3
+24	32	1704667323512247592	libdynamic_array.a	91da6164f34c75a5
+0	25	1704673016052832512	CMakeFiles/dynamic_array.dir/library.c.o	a2fdffb8932c8dd3
+25	33	1704673016060832568	libdynamic_array.a	91da6164f34c75a5
